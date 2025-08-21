@@ -1,5 +1,5 @@
 
-print[music to the  Gods]
-print[music is life]
+print["music to the  Gods"]
+print["music is life"]
 
 
